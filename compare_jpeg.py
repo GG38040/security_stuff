@@ -1,5 +1,5 @@
 #compares two jpg images for differences
-#only works with python 2.  [] Not exactly sure why
+#python2
 
 d = open("kitters.jpg", "rb").read()
 e = open("cattos.jpg", "rb").read()
