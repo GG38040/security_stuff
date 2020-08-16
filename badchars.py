@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #Find the Offset Script Cyber Mentor
 #7/23/2020
-#yankeezeroone
+
 
 import sys, socket
 
